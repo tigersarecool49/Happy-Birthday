@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color:black;
+   border-style: ridge;
+   border-top-color: blueviolet;
+   border-bottom-color: blueviolet; 
+   border-left-color: rgb(4, 0, 255);
+   border-right-color: rgb(4, 0, 255);
+}
+
+#btn{
+    background-color: blueviolet;
+    color: black;
+}
